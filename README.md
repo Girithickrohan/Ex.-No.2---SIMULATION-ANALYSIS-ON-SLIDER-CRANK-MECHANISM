@@ -44,8 +44,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
-### Name:
-### Register Number: 
+### Name: GIRITHICK ROHAN N
+### Register Number: 212223230063
 ![image](https://github.com/Girithickrohan/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/138849207/1c10decc-dae7-4053-9f3b-be9726f2d449)
 
 ## RESULT:
